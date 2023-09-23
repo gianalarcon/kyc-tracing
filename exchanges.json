@@ -1,0 +1,19 @@
+{
+    "exchangeWallets" : [
+        {
+            "exchangeName" : "Binance",
+            "exchangeLink" : "https://www.binance.com",
+            "exchangeWallet" : "0x28C6c06298d514Db089934071355E5743bf21d60"
+        },
+        {
+            "exchangeName" : "Binance",
+            "exchangeLink" : "https://www.binance.com",
+            "exchangeWallet" : "0x21a31Ee1afC51d94C2eFcCAa2092aD1028285549"
+        },
+        {
+            "exchangeName" : "Disperse App",
+            "exchangeLink" : "https://www.disperse.app",
+            "exchangeWallet" : "0xD152f549545093347A162Dce210e7293f1452150"
+        }
+    ]
+}
